@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(43, 42, 42);
+
+}
+.Qpanel{
+    background-color: rgb(66, 66, 66);
+    border-radius: 10px;
+    border: none;
+    resize: none;
+    width: 70%;
+    padding: 10px;
+    font-size: large;
+    color:rgb(206, 206, 206);
+    display: flex;
+    align-self: center;
+    margin: 10px;
+    border: solid 2px rgb(255, 255, 255);
+    
+
+}
+textarea:hover{
+    border: solid 2px blueviolet;
+}
+textarea:focus{
+    border: solid 2px blueviolet;
+}
+
+.Panel{
+    background-color: rgb(66, 66, 66);
+    border-radius: 10px;
+    margin: 10px;
+}
+button{
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    font-size: 18;
+    color: aliceblue;
+    border: solid 2px  rgb(31, 30, 30);
+    padding: 10px;
+}
+button:hover{
+    border: solid 2px blueviolet;
+}
